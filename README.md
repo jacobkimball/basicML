@@ -10,6 +10,6 @@ Classifying JIA helps you practice machine learning skills with some data from t
 
 I would recommend going through the Linear Regression notebook first, then Classification Basics, then Classifying JIA. 
 
-If you are new to programming, consider opening these notebooks through Google Colab. Here's a tutorial: 
+If you are new to programming in Python, consider opening these notebooks through Google Colab. Here's a tutorial on how to do this: 
 https://medium.com/@steve7an/how-to-test-jupyter-notebook-from-github-via-google-colab-7dc4b9b11a19
-![image](https://user-images.githubusercontent.com/56931125/113923752-e82c6e00-97b6-11eb-86d8-6335c79b0d69.png)
+
