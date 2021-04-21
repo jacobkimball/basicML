@@ -2,6 +2,8 @@
 
 A series of jupyter notebooks for exploring some basic concepts and algorithms for machine learning. 
 
+This project is designed for use by students in ECE/BMED/ME/CHE 4782: Biosystems Analysis at Georgia Tech and any other students around the world to learn the basics of machine learning to allow them to interact with data from real subjects.
+
 The Linear Regression notebook covers Ordinary Least Squares, teaching the basics of standardization and feature importance, as well as evaluating regression models. 
 
 The Classification Basics notebook uses Support Vector Machines with rbf kernel to teach the basics of cross validation, hyperparameter tuning, and evaluating classification models. 
